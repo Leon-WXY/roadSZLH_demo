@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/unity-ui-extensions/Examples/CardUI/2D Card Expanding.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
